@@ -1,5 +1,15 @@
 # Jeremiah Tersor Akaakohol
 
+## 👋 I'm a **Computer Engineering Technology Graduate** with a passion for solving complex problems through technology. My diverse skill set allows me to bridge the gap between technical implementation and client needs.
+
+### 🎯 What I Do:
+- 💻 **Full-Stack Development** - Build responsive web applications
+- 🐍 **Python Programming** - Automation, data processing, backend systems
+- 🛠️ **IT Support** - Hardware, software, network troubleshooting
+- 📝 **Content & Script Writing** - Technical documentation, video scripts
+- 👔 **Virtual Assistance** - Administrative and technical support
+<div align="center">
+
 ### Building Digital Solutions That Help Businesses Work Smarter
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineer;Full-Stack+Developer;Python+Automation+Specialist;IT+Support+Professional;Technical+Writer;Available+for+Freelance+Projects" />
@@ -33,7 +43,35 @@ I help startups, entrepreneurs, NGOs, educational institutions, and growing busi
 
 ✔ Digital Transformation Consulting
 
+## 🛠️ Technical Skills
+
+| Category | Technologies & Tools |
+|----------|---------------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React |
+| **Backend** | Python, Node.js, PHP |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **IT Support** | Windows, Linux, Networking, Hardware |
+| **Tools** | Git, GitHub, VS Code, Docker |
+| **Content** | Markdown, SEO, Technical Writing |
+
 ---
+
+## 📂 Repository Structure
+
+---
+## 🚀 Live Portfolio
+
+**👉 Visit my live portfolio:** [https://JerryTDigitals.github.io](https://JerryTDigitals.github.io)
+
+This repository hosts my professional portfolio website where you can:
+- 📄 View/Download my CV
+- 💼 See my work samples
+- 📞 Contact me directly
+- 🔗 Connect on professional platforms
+
+---
+
+
 
 # 💼 Hire Me
 
